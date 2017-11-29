@@ -4,13 +4,13 @@ This module helps you understand:
   -- the difference between PRINT and RETURN
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         and their colleagues.
+         and their colleagues and Coleman Weaver
 """
 # ----------------------------------------------------------------------
 # Students: READ the comment FARTHER DOWN in this file.
 #   There is nothing for you to turn in from this file.
 #
-# TODO #1:
+# Done
 # This file is the first file in project to use rosegraphics, so you need to right click
 # on the src folder and select Mark Directory as --> Sources Root
 # When you do that watch the red underline on rosegraphic disappear (you may need
